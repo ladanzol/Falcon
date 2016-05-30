@@ -1,0 +1,24 @@
+{
+  "name": "falcon",
+  "version": "1.0.0",
+  "description": "My Assessment for Falcon",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladanzol/Falcon.git"
+  },
+  "keywords": [
+    "Falcon",
+    "Ladan"
+  ],
+  "author": "Ladan Zolfaghari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ladanzol/Falcon/issues"
+  },
+  "homepage": "https://github.com/ladanzol/Falcon#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}
